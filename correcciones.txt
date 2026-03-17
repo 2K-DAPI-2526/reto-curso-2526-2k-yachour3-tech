@@ -1,0 +1,9 @@
+Reto 1:
+
+- Falta numerar las columnas y las filas para saber dónde mover (fila origen y columna origen)
+- las piezas pueden moverse por doquier
+- Necesario implementar un sistema correcto de movimiento
+
+Reto 3:
+
+-No deja resolver el laberinto, simplementa te da la solución
